@@ -6,7 +6,7 @@ package com.uthh.edd.unidad1.tda.TDAVisual;
 
 /**
  *
- * @author Humbe
+ * @author HumbertoFloresCastillo
  */
 public final class CalcularPromedio {
    //Atributos del TDA
